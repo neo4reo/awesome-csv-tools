@@ -33,5 +33,8 @@ This leads to incompatibilities and many cases to handle in csv parsers.
 ### CSV Manipulation
 - [visidata](https://github.com/saulpw/visidata) - A terminal interface for exploring and arranging tabular data
 
+### CSV Viewers
+- [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer with read-only table browsing for local CSV files
+
 ### Visualisation
 - [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and data visualization
